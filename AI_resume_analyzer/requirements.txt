@@ -1,0 +1,14 @@
+
+# Backend (FastAPI)
+fastapi==0.115.5
+uvicorn[standard]==0.32.1
+python-multipart==0.0.12        # required for FastAPI file uploads
+pydantic==2.10.3
+requests==2.32.3
+
+# PDF processing
+pdfplumber==0.11.4
+pypdf==5.1.0
+
+# Frontend (Streamlit)
+streamlit==1.41.1
