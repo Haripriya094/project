@@ -1,0 +1,89 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="LossyEncoding" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="annotated-types" />
+          <option value="anyio" />
+          <option value="azure-core" />
+          <option value="azure-data-tables" />
+          <option value="azure-iot-device" />
+          <option value="Babel" />
+          <option value="certifi" />
+          <option value="charset-normalizer" />
+          <option value="click" />
+          <option value="colorama" />
+          <option value="deprecation" />
+          <option value="dnspython" />
+          <option value="docx2pdf" />
+          <option value="docxcompose" />
+          <option value="docxtpl" />
+          <option value="email_validator" />
+          <option value="fastapi" />
+          <option value="fastapi-cli" />
+          <option value="h11" />
+          <option value="httpcore" />
+          <option value="httptools" />
+          <option value="httpx" />
+          <option value="idna" />
+          <option value="isodate" />
+          <option value="janus" />
+          <option value="Jinja2" />
+          <option value="lxml" />
+          <option value="markdown-it-py" />
+          <option value="MarkupSafe" />
+          <option value="mdurl" />
+          <option value="multidict" />
+          <option value="orjson" />
+          <option value="packaging" />
+          <option value="paho-mqtt" />
+          <option value="psycopg2-binary" />
+          <option value="pydantic" />
+          <option value="pydantic_core" />
+          <option value="Pygments" />
+          <option value="pyodbc" />
+          <option value="PySocks" />
+          <option value="python-docx" />
+          <option value="python-dotenv" />
+          <option value="python-multipart" />
+          <option value="PyYAML" />
+          <option value="requests" />
+          <option value="requests-unixsocket" />
+          <option value="rich" />
+          <option value="shellingham" />
+          <option value="six" />
+          <option value="sniffio" />
+          <option value="starlette" />
+          <option value="tqdm" />
+          <option value="typer" />
+          <option value="typing_extensions" />
+          <option value="ujson" />
+          <option value="urllib3" />
+          <option value="uvicorn" />
+          <option value="watchfiles" />
+          <option value="websockets" />
+          <option value="yarl" />
+          <option value="pydantic_settings" />
+          <option value="PyPDF2" />
+          <option value="openpyxl" />
+          <option value="bs4" />
+          <option value="pillow" />
+          <option value="pdfrw" />
+          <option value="reportlab" />
+          <option value="numpy" />
+          <option value="pymongo" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N801" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="SqlNoDataSourceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  </profile>
+</component>
